@@ -1,4 +1,7 @@
 venv
+src/build
+src/dist
+*.spec
 
 ### IntelliJ IDEA ###
 .idea
