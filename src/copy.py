@@ -2,6 +2,7 @@
 import pymysql
 import ConfigParser
 import time
+print "Program start, please wait for a moment"
 config = ConfigParser.ConfigParser()
 config.readfp(open('./config.ini'))
 # 获取源数据库的链接参数
